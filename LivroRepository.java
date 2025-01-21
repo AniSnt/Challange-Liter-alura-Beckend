@@ -1,5 +1,3 @@
-package com.josyani.repository;
-
 import com.exemplo.model.Livro;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
