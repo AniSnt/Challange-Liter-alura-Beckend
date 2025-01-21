@@ -1,5 +1,3 @@
-package com.josyani.controller;
-
 import com.exemplo.model.Livro;
 import com.exemplo.service.LivroService;
 import org.springframework.beans.factory.annotation.Autowired;
