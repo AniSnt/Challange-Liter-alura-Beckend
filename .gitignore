@@ -1,0 +1,11 @@
+# Maven build directories
+target/
+
+# IDE files (IntelliJ IDEA, Eclipse)
+.idea/
+*.iml
+*.classpath
+*.project
+
+# Files from OS (e.g., .DS_Store on macOS)
+.DS_Store
